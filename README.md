@@ -1,4 +1,4 @@
-- 👋 #Hi, I’m @KAYKERICH
+- 👋 Hi, I’m @KAYKERICH
 - 👀 I’m interested in Analyzing of Data
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on collection and generating of data
